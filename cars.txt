@@ -1,4 +1,4 @@
-1 BMW 3 Series Available
+1 BMW 3 Available
 2 Audi A4 Available
-3 Mercedes-Benz C-Class Under Repair
+3 Mercedes-Benz C-Class Rented
 4 Toyota Corolla Available
